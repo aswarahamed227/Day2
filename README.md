@@ -1,1 +1,1 @@
-# Day2
+# Day02_Boilerplate
